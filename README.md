@@ -1,21 +1,5 @@
-# myproject
+My First Project using a Luminus Framework
 
-generated using Luminus version "2.9.10.74"
-
-FIXME
-
-## Prerequisites
-
-You will need [Leiningen][1] 2.0 or above installed.
-
-[1]: https://github.com/technomancy/leiningen
-
-## Running
-
-To start a web server for the application, run:
-
-    lein run
-
-## License
-
-Copyright © 2016 FIXME
+Aims:
+Retrieve information from Database and display in the browser as a table
+Play with Cljs and Reagent to learn more about web development using Clojure and ClojureScript
